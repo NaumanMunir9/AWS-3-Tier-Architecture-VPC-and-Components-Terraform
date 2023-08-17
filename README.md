@@ -13,7 +13,7 @@
 ### Terraform Initialize
 
 ```shell
-$ terraform init
+terraform init
 ```
 
 ---
@@ -21,7 +21,31 @@ $ terraform init
 ### Terraform Validate
 
 ```shell
-$ terraform validate
+terraform validate
+```
+
+---
+
+### Terraform plan
+
+```shell
+terraform plan
+```
+
+---
+
+### Terraform Apply
+
+```shell
+terraform apply
+```
+
+---
+
+### Terraform Destroy
+
+```shell
+terraform apply -destroy -auto-approve
 ```
 
 ---
