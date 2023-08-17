@@ -7,3 +7,21 @@
 ![AWS 3 tier Architecture - VPC and Components](/architecture-diagram/AWS%203%20Tier%20Architecture.png)
 
 ---
+
+## Terraform Commands
+
+### Terraform Initialize
+
+```shell
+$ terraform init
+```
+
+---
+
+### Terraform Validate
+
+```shell
+$ terraform validate
+```
+
+---
