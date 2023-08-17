@@ -1,5 +1,7 @@
 # Unveiling the Power of AWS 3-Tier Architecture with Terraform: Building a Resilient and Scalable VPC
 
+![AWS 3 tier Architecture - VPC and Components](/architecture-diagram/YT-Thumbnail-AWS%203-Tier%20Architecture%20with%20Terraform%20%20Building%20a%20Resilient%20and%20Scalable%20VPC.png)
+
 ---
 
 ## Architecture Diagram
